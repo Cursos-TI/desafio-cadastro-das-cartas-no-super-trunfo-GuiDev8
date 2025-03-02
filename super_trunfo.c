@@ -3,7 +3,7 @@
 int main(){
 
     char estado[50], codigodacarta[10], nomedacidade[50];
-    int populaçao, numerodepontosturisticos;
+    int populacao, numerodepontosturisticos;
     float pib, area;
 
     /*Para que o código rode normalmente, peço que não utilize ESPAÇO.
@@ -22,7 +22,7 @@ int main(){
     scanf("%s", &nomedacidade);
 
     printf("Digite a População: \n");
-    scanf("%d", &populaçao);
+    scanf("%d", &populacao);
 
     printf("Número de Pontos Túristicos: \n");
     scanf("%d", &numerodepontosturisticos);
@@ -45,7 +45,7 @@ int main(){
     scanf("%s", &nomedacidade);
 
     printf("Digite a População: \n");
-    scanf("%d", &populaçao);
+    scanf("%d", &populacao);
 
     printf("Número de Pontos Túristicos: \n");
     scanf("%d", &numerodepontosturisticos);
